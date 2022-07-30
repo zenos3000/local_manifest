@@ -2,10 +2,10 @@
 <manifest>
 
 <!-- Trees -->
-<project path="device/realme/RMX1851" name="Cykeek/device_Realme_RMX1851.git" remote="github" revision="twelve" />
-<project path="device/realme/sdm710-common" name="Cykeek/android_vendor_realme_sdm710-common.git" remote="github" revision="spark" />
+<project path="device/realme/RMX1851" name="Cykeek/device_realme_RMX1851.git" remote="github" revision="cherish" />
+<project path="device/realme/sdm710-common" name="Cykeek/android_device_realme_sdm710-common.git" remote="github" revision="12.1" />
 <project path="vendor/realme/RMX1851" name="Cykeek/vendor_realme_RMX1851.git" remote="gitlab" revision="12" />
-<project path="vendor/realme/sdm710-common" name="Cykeek/vendor_realme_sdm710-common.git" remote="github" revision="twelve" />
-<project path="device/realme/RMX1851" name="projects-nexus/kernel_realme_sdm710.git" remote="github" revision="staging" />
+<project path="vendor/realme/sdm710-common" name="Cykeek/android_vendor_realme_sdm710-common.git" remote="github" revision="cherish" />
+<project path="kernel/realme/sdm710" name="projects-nexus/kernel_realme_sdm710.git" remote="github" revision="staging" />
 
 </manifest>
